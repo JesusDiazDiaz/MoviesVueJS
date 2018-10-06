@@ -1,5 +1,3 @@
 # Movies Vue JS
 
-> PWA en vue.js, utlizando una api de peliculas
-
-## Pls Download...
+PWA en vue.js, utlizando una api de peliculas
